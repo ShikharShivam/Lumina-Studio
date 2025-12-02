@@ -1,0 +1,8 @@
+{
+  "name": "Lumina AI Video Studio",
+  "description": "An intelligent video creation suite powered by Gemini and Veo. Upload unlimited assets, auto-generate titles, apply AI filters, and render stunning videos directly in your browser.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
